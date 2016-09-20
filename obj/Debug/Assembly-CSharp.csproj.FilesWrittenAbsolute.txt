@@ -1,0 +1,14 @@
+/Users/nathanmagalhaes/UnityProject/Roll/Temp/bin/Debug/UnityEngine.dll
+/Users/nathanmagalhaes/UnityProject/Roll/Temp/bin/Debug/UnityEditor.dll
+/Users/nathanmagalhaes/UnityProject/Roll/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/nathanmagalhaes/UnityProject/Roll/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/nathanmagalhaes/UnityProject/Roll/Temp/bin/Debug/UnityEngine.Analytics.dll
+/Users/nathanmagalhaes/UnityProject/Roll/Temp/bin/Debug/Mono.Cecil.dll
+/Users/nathanmagalhaes/UnityProject/Roll/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/nathanmagalhaes/UnityProject/Roll/Temp/bin/Debug/Unity.DataContract.dll
+/Users/nathanmagalhaes/UnityProject/Roll/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/nathanmagalhaes/UnityProject/Roll/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/nathanmagalhaes/UnityProject/Roll/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/nathanmagalhaes/UnityProject/Roll/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/nathanmagalhaes/UnityProject/Roll/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/nathanmagalhaes/UnityProject/Roll/Temp/bin/Debug/Mono.Cecil.Mdb.dll
